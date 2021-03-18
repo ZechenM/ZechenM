@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZechenM
+- 👋 Hi, I’m Zechen Ma
 - 👀 I’m interested in Machine Learning, Deep Learning
 - 🌱 I’m currently learning Operating System, Computer Graphics, Cyprotogrpahy, Computer Architecture
 - 💞️ I’m looking for SWE/ML Internship in Summer 2022
