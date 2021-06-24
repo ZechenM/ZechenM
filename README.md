@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zechen Ma
-- 👀 I’m interested in Machine Learning, Deep Learning
-- 🌱 I’m currently learning Operating System, Computer Graphics, Cyprotogrpahy, Computer Architecture
+- 👀 I’m interested in Computer Architecture, Machine Learning
+- 🌱 I’m currently a SWE Intern at Arista Networks
 - 💞️ I’m looking for SWE/ML Internship in Summer 2022
 - 📫 How to reach me: zechenma@ucsb.edu
 
