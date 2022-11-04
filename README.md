@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zechen Ma
 - 👀 I’m interested in Augumented Reality, Machine Learning, Computer Architecture, and Quantum Computing 
-- 🌱 I’m currently a 4th year CS undergraduate at UC Santa Barbara
-- 💞️ I’m looking for Research Internship in Summer 2022
+- 🌱 I’m currently a 5th year BS/MS in CS at UC Santa Barbara
+- 💞️ I’m looking for a SDE Internship in Summer 2023
 - 📫 How to reach me: zechenma@ucsb.edu
 
 <!---
