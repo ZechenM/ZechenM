@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zechen Ma
-- 👀 I’m interested in Augumented Reality, Machine Learning, Computer Architecture, and Distributed System 
-- 🌱 I’m currently a 5th year BS/MS in CS at UC Santa Barbara
-- 💞️ I’m looking for a SDE Internship in Summer 2023
+- 👀 I’m interested in Computer Architecture
+- 🌱 I’m currently a BS/MS in CS at UC Santa Barbara
+- 💞️ I’m applying to PhD programs that start in Fall 2024
 - 📫 How to reach me: zechenma@ucsb.edu
 
 <!---
