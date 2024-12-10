@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zechen Ma
 - 👀 I’m interested in Computer Architecture and Hardware Security
-- 🌱 I’m currently a PhD student in CS at University of Toronto
+- 🌱 I did my BS/MS in CS at UC Santa Barbara ArchLab
 - 📫 How to reach me: zm.getusername@gmail.com
 
 <!---
