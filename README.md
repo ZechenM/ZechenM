@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zechen Ma
-- 👀 I’m interested in Computer Architecture and Hardware Security
+- 👀 I’m interested in Computer Architecture and Computer Networks
 - 🌱 I did my BS/MS in CS at UC Santa Barbara ArchLab
 - 📫 How to reach me: zm.getusername@gmail.com
 
