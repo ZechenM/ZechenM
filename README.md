@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Zechen Ma
-- 👀 I’m interested in Computer Architecture and Computer Networks
+- 👋 Hi, I’m Zechen Ma and I am a CS PhD student at University of Toronto
+- 👀 I’m interested in Systems and my research direction focuses on Computer Network
 - 🌱 I did my BS/MS in CS at UC Santa Barbara ArchLab
 - 📫 How to reach me: zm.getusername@gmail.com
 
